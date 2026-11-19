@@ -1,4 +1,4 @@
-# LeetCode / DSA practice
+# LeetCode / DSA practice / Hacks
 
 My daily data structures and algorithms practice, mostly in Python. Problems are grouped by pattern, and each solution starts with a short note on the approach and its time/space complexity.
 
